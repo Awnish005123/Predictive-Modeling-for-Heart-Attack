@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="28">
     <img src="https://img.shields.io/badge/Model-Random_Forest-2ea44f?style=for-the-badge" alt="Model">
     <img src="https://img.shields.io/badge/Accuracy-81.33%25-blue?style=for-the-badge" alt="Accuracy">
 </p>
@@ -26,7 +25,9 @@
 *   [Final Model & Results](#-final-model--results)
 *   [Conclusion](#-conclusion)
 *   [Future Scope](#-future-scope)
+*   [Download Full Report (PDF)](#-Download-Full-Report)
 *   [Author](#-author)
+
 
 ## 📜 Abstract
 
@@ -79,11 +80,6 @@ The EDA revealed key insights into the data distribution and relationships betwe
     *   **Time:** A shorter follow-up period (`time`) is strongly associated with mortality, as high-risk patients were monitored for shorter durations.
     *   **Platelets:** No significant relationship was found with the death event.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-fba4f346-64a0-402c-8898-3f4dfb66a8a3.gif" alt="EDA Plot" width="600" height="300">
-  <br>
-  <em>Visualization of key feature distributions against the death event.</em>
-</p>
 
 ## ⚙️ Methodology
 
@@ -136,11 +132,7 @@ The model confirmed the importance of the selected features, ranked as follows:
 3.  **Ejection Fraction**
 4.  **Age**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284116-f0f5b113-1748-4e38-8121-3972629b9084.gif" alt="Feature Importance" width="500">
-  <br>
-  <em>Feature importance as determined by the final Random Forest model.</em>
-</p>
+
 
 ## ✅ Conclusion
 
@@ -155,6 +147,8 @@ While this study provides valuable insights, future work could explore the follo
 *   **Longitudinal Data:** Use longitudinal studies to track patient progression over longer periods.
 *   **Genomic Data:** Integrate genetic and genomic data for personalized risk assessments.
 *   **Real-time Monitoring:** Leverage data from wearable devices to build dynamic and more precise predictive models.
+
+[📄 Download Full Report (PDF)](heart_failure_report.pdf)
 
 ## ✍️ Author 
 
