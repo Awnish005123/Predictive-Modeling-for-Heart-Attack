@@ -148,7 +148,7 @@ While this study provides valuable insights, future work could explore the follo
 *   **Genomic Data:** Integrate genetic and genomic data for personalized risk assessments.
 *   **Real-time Monitoring:** Leverage data from wearable devices to build dynamic and more precise predictive models.
 
-[📄 Download Full Report (PDF)](heart_failure_report.pdf)
+[📄 Download Full Report (PDF)](https://github.com/Awnish005123/Predictive-Modeling-for-Heart-Attack/blob/main/Heart%20Attack%20Prediction.pdf)
 
 ## ✍️ Author 
 
