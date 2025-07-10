@@ -1,8 +1,8 @@
 ################################################
 ## Data Analytics & Predictive Modeling Project
 ##  HEART FAILURE PREDICTION
-##  - Aseem, Avinash, Awnish
-##    UB ID: 50545729, 50546684, 50542202
+##  -Awnish Shankar
+##    UB ID:50542202
 ################################################
 getwd() # Check current working directory
 
